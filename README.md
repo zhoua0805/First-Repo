@@ -1,2 +1,3 @@
 This is my first repo!
-Testing conflict ...
+
+The purpose of this repo is to learn about git and GitHub
