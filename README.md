@@ -1,3 +1,4 @@
 This is my first repo!
 
-The purpose of this repo is to learn about git and GitHub
+This is a picture of me:
+![Picture of me](linkedin.jpg)
